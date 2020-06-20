@@ -1,7 +1,6 @@
 rm(list=ls())
 setwd("C:/Users/Usuario/Desktop/Clases_de_R/Prácticas/Trabajo_02_ACF_PACF/")
 
-# correlograma
 #### Modelos AR(2), phi[1]>0 & phi[2]>0 ####
 
 set.seed(3.1416)
